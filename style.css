@@ -70,16 +70,13 @@ li {
 }
 
 i {
-  color: rgba(0, 0, 0, 0.1);
+  color: blue;
   margin-right: 16px;
+  font-size: 30px;
 }
 
 i:hover {
   color: rgba(0, 0, 0, 1.0);
-}
-
-i {
-  font-size: 30px;
 }
 
 h2 {
